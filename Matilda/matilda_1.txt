@@ -1,5 +1,4 @@
 esta es una modificacion
 
 recuperar mensaje de esta linea dos
-
-se crea nueva linea
+se elimina esta linea
