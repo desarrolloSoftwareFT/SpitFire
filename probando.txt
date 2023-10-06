@@ -1,1 +1,3 @@
 probando info
+
+para la rama monosonoic
