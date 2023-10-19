@@ -11942,7 +11942,7 @@ sub EEprom_Serial_4k_NG2       !SONIC  73-20559-02 A0
 !~EpromData(hti("0006EB")) = hti("FF") !1771
 !~EpromData(hti("0006EC")) = hti("FF") !1772
 !~EpromData(hti("0006ED")) = hti("FF") !1773
-!~EpromData(hti("0006EE")) = hti("FF") !1774
+!~prueba
 !~EpromData(hti("0006EF")) = hti("FF") !1775
 !~EpromData(hti("0006F0")) = hti("FF") !1776
 !~EpromData(hti("0006F1")) = hti("FF") !1777
