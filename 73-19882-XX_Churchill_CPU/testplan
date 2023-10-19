@@ -4648,7 +4648,7 @@ global Status
    test "analog/r567"
    test "analog/r623"
    test "analog/r627"
-   test "analog/r491"
+   test "prueba"
    test "analog/r560"
    test "analog/r508_c"
    test "analog/r509_c"
