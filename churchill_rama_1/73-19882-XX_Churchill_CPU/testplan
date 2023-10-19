@@ -4406,7 +4406,7 @@ global Status
    test "analog/fc_r164"
    test "analog/fc_r165"
    test "analog/fc_r166"
-   test "analog/fc_r167"
+   test "analog/prueba"
    test "analog/fc_r168"
    test "analog/fc_r169"
    test "analog/fc_r170"
