@@ -1,4 +1,4 @@
 en este archivo de texto
 se colocara informacion de prueba
 para ver la modificacion
-resitencia : 20k
+resitencia : 5k
